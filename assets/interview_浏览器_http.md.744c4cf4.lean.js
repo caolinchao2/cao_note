@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.b5309610.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"interview/浏览器/http.md","filePath":"interview/浏览器/http.md","lastUpdated":null}'),r={name:"interview/浏览器/http.md"};function n(o,s,i,p,c,d){return e(),a("div")}const m=t(r,[["render",n]]);export{l as __pageData,m as default};
