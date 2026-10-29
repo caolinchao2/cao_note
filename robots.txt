@@ -1,0 +1,8 @@
+# 站点根地址（GitHub Pages 项目站点，带 base 前缀）
+# 面试资料不在这里 Disallow：那批页面用的是页面级 noindex，
+# 若在此 Disallow 反而会让爬虫读不到 noindex，反而留在索引里。
+
+User-agent: *
+Allow: /
+
+Sitemap: https://caolinchao2.github.io/cao_note/sitemap.xml
